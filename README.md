@@ -1,8 +1,8 @@
 <a href="#">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=QuangVuong85&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af&theme=radical">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=mnhquy2802&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af&theme=radical">
 </a>
 
-### Welcome to Dinh Quang Vuong's GitHub 👋 🔭 🌱 👯 🤔 💬 📫 😄 ⚡
+### Welcome to Chu Minh Quy's GitHub 👋 🔭 🌱 👯 🤔 💬 📫 😄 ⚡
 
 
 ![](https://img.shields.io/badge/-Java-8cadad?style=flat-square&logo=Java&logoColor=fff)
@@ -12,8 +12,7 @@
 ![](https://img.shields.io/badge/-PyTorch-e34f26?style=flat-square&logo=PyTorch&logoColor=fff)
 ![](https://img.shields.io/badge/-TensorFlow-e5cd0c?style=flat-square&logo=TensorFlow&logoColor=fff)
 
-<!--
-**QuangVuong85/QuangVuong85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -25,4 +24,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 
--->
+
